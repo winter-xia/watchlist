@@ -40,6 +40,7 @@ movies = [
 	{'title': 'The Pork of Music', 'year': '2012'},
 ]
 
+
 # 返回渲染好的模板作为响应
 @app.route('/sofia')
 def index():
